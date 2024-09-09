@@ -45,10 +45,6 @@ form .display input{
     font-size: 45px;
 }
 
-form input.zero{
-    width: 230px;
-}
-
 form input.operator{
     color: aqua;
 }
